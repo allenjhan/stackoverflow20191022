@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/allen/rep/stackoverflow20191022/src/main/scala/CachedValueTest2.scala:42:11: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following inputs: (_, None, Some(_)), (_, Some(_), Some(_))[0m
+[0m[[0m[33mwarn[0m] [0m[0m          head match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
